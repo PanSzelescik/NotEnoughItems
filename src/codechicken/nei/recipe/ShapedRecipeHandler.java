@@ -127,10 +127,15 @@ public class ShapedRecipeHandler extends TemplateRecipeHandler
         }
     }
 
+    @SuppressWarnings("unchecked")
     @Override
     public void loadUsageRecipes(ItemStack ingredient) {
         for (IRecipe irecipe : (List<IRecipe>) CraftingManager.getInstance().getRecipeList()) {
             CachedShapedRecipe recipe = null;
+            if (irecipe.getRecipeOutput() == null) {
+                NEIClientConfig.logger.error("Error loading usage recipe, null output: {}", irecipe.toString());
+                continue;
+            }
             if (irecipe instanceof ShapedRecipes)
                 recipe = new CachedShapedRecipe((ShapedRecipes) irecipe);
             else if (irecipe instanceof ShapedOreRecipe)
