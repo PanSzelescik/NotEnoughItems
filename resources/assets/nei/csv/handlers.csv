@@ -177,7 +177,7 @@ ic2.neiIntegration.core.recipehandler.MetalFormerRecipeHandlerRolling,Industrial
 ic2.neiIntegration.core.recipehandler.OreWashingRecipeHandler,IndustrialCraft 2,IC2:blockMachine2:5,,IC2,TRUE,,,,,,,,,,,
 ic2.neiIntegration.core.recipehandler.ScrapboxRecipeHandler,IndustrialCraft 2,IC2:itemScrapbox,,IC2,TRUE,,,50,,6,,,,,,
 ic2.neiIntegration.core.recipehandler.SolidCannerRecipeHandler,IndustrialCraft 2,IC2:blockMachine2:9,,IC2,TRUE,,,,,,,,,,,
-speiger.src.crops.prediction.NEIPlugin,IC2CropsNEI,IC2:blockCrop,,Ic2Nei,TRUE,,,135,,2,,,,,,Not actual recipes, just inf
+speiger.src.crops.prediction.NEIPlugin,IC2CropsNEI,IC2:blockCrop,,Ic2Nei,TRUE,,,135,,2,,,,,,Not actual recipes, just info
 tonius.neiintegration.mods.mcforge.RecipeHandlerFluidRegistry,Minecraft,minecraft:water,,minecraft,FALSE,,,,,,,,,,,
 tonius.neiintegration.mods.mcforge.RecipeHandlerOreDictionary,Minecraft,minecraft:iron_ore,,minecraft,FALSE,,,,,,,,,,,
 gt.recipe.alloyblastsmelter,GT++,gregtech:gt.blockmachines:810,,miscutils,TRUE,,6,135,166,2,,,,,,ABS
@@ -234,7 +234,7 @@ tconstruct.plugins.nei.RecipeHandlerCastingBasin,Tinker's Construct,TConstruct:S
 tconstruct.plugins.nei.RecipeHandlerCastingTable,Tinker's Construct,TConstruct:SearedBlock,,TConstruct,TRUE,,,65,,5,,,,,,
 tconstruct.plugins.nei.RecipeHandlerDryingRack,Tinker's Construct,TConstruct:Armor.DryingRack,,TConstruct,TRUE,,,55,,5,,,,,,
 tconstruct.plugins.nei.RecipeHandlerMelting,Tinker's Construct,TConstruct:LavaTank:2,,TConstruct,TRUE,,,65,,5,,,,,,
-tconstruct.plugins.nei.RecipeHandlerToolMaterials,Tinker's Construct,TConstruct:ToolStationBlock,,TConstruct,TRUE,,,110,,3,,,,,,Longer if more modifiers, I went through the whole lis
+tconstruct.plugins.nei.RecipeHandlerToolMaterials,Tinker's Construct,TConstruct:ToolStationBlock,,TConstruct,TRUE,,,110,,3,,,,,,Longer if more modifiers, I went through the whole list
 net.p455w0rd.wirelesscraftingterminal.integration.modules.NEIHelpers.NEIAEShapedRecipeHandler,Wireless Crafting Terminal,ae2wct:wirelessCraftingTerminal,,ae2wct,TRUE,,,,,,,,,,,
 alkalus.main.nei.NEI_Handler_Cauldron,Witchery,witchery:cauldron,,WitcheryExtras,TRUE,,,65,,5,,,,,,
 alkalus.main.nei.NEI_Handler_Distillery,Witchery,witchery:distilleryidle,,WitcheryExtras,TRUE,,,140,,2,,,,,,
