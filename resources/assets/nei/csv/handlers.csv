@@ -16,7 +16,7 @@ aroma1997.core.recipes.nei.ShapedAromicRecipeHandler,AromaBackup,minecraft:craft
 aroma1997.core.recipes.nei.ShapelessAromicRecipeHandler,AromaBackup,minecraft:crafting_table,,AromaBackup,TRUE,,,,,,,,,,,
 fox.spiteful.avaritia.compat.nei.CompressionHandler,Avaritia,Avaritia:Neutronium_Compressor,,Avaritia,TRUE,,,50,,6,,,,,,
 fox.spiteful.avaritia.compat.nei.ExtremeShapedRecipeHandler,Avaritia,Avaritia:Dire_Crafting,,Avaritia,TRUE,,,208,256,1,,,,,,Part of it even goes off the left side (included)
-fox.spiteful.avaritia.compat.nei.ExtremeShapelessRecipeHandler,Avaritia,Avaritia:Dire_Crafting,,Avaritia,TRUE,,,208,256,1,,,,,,If you can cut off/place over the jaggedness at the bottom, you could barely get a second on
+fox.spiteful.avaritia.compat.nei.ExtremeShapelessRecipeHandler,Avaritia,Avaritia:Dire_Crafting,,Avaritia,TRUE,,,208,256,1,,,,,,"If you can cut off/place over the jaggedness at the bottom, you could barely get a second on"
 WayofTime.alchemicalWizardry.client.nei.NEIAlchemyRecipeHandler,Blood Magic,AWWayofTime:blockWritingTable,,AWWayofTime,TRUE,,,68,,5,,,,,,
 WayofTime.alchemicalWizardry.client.nei.NEIAltarRecipeHandler,Blood Magic,AWWayofTime:Altar,,AWWayofTime,TRUE,,,65,,5,,,,,,Handler name needs shifting left
 WayofTime.alchemicalWizardry.client.nei.NEIBindingRitualHandler,Blood Magic,AWWayofTime:sacrificialKnife,,AWWayofTime,TRUE,,,50,,6,,,,,,
@@ -42,7 +42,7 @@ crazypants.enderio.nei.VatRecipeHandler,Ender IO,EnderIO:blockVat,,EnderIO,TRUE,
 extracells.integration.nei.UniversalTerminalRecipe,Extra Cells 2,extracells:part.base:9,,extracells,TRUE,,,65,,5,,,,,,
 com.rwtema.extrautils.nei.EnderConstructorHandler,Extra Utilities,ExtraUtilities:endConstructor,,ExtraUtilities,TRUE,,,68,,5,,,,,,
 com.rwtema.extrautils.nei.FMPMicroBlocksHandler,Extra Utilities,ForgeMicroblock:sawIron,,ExtraUtilities,TRUE,,,65,,5,,,,,,
-com.rwtema.extrautils.nei.InfoHandler,Extra Utilities,ExtraUtilities:chandelier,,ExtraUtilities,TRUE,,,135,,2,,,,,,Info on blocks, can vary wildly. EQ was this length, there might be a longer o
+com.rwtema.extrautils.nei.InfoHandler,Extra Utilities,ExtraUtilities:chandelier,,ExtraUtilities,TRUE,,,135,,2,,,,,,"Info on blocks, can vary wildly. EQ was this length, there might be a longer o"
 com.rwtema.extrautils.nei.MicroBlocksHandler,Extra Utilities,ExtraUtilities:microblocks:1,,ExtraUtilities,TRUE,,,,,,,,,,,
 com.rwtema.extrautils.nei.SoulHandler,Extra Utilities,ExtraUtilities:mini-soul,,ExtraUtilities,TRUE,,,,,,,,,,,
 hellfirepvp.beebetteratbees.client.gui.BBABGuiRecipeTreeHandler,Bees,Forestry:beeQueenGE,,Forestry,TRUE,,,140,,2,,,,,,
@@ -234,7 +234,7 @@ tconstruct.plugins.nei.RecipeHandlerCastingBasin,Tinker's Construct,TConstruct:S
 tconstruct.plugins.nei.RecipeHandlerCastingTable,Tinker's Construct,TConstruct:SearedBlock,,TConstruct,TRUE,,,65,,5,,,,,,
 tconstruct.plugins.nei.RecipeHandlerDryingRack,Tinker's Construct,TConstruct:Armor.DryingRack,,TConstruct,TRUE,,,55,,5,,,,,,
 tconstruct.plugins.nei.RecipeHandlerMelting,Tinker's Construct,TConstruct:LavaTank:2,,TConstruct,TRUE,,,65,,5,,,,,,
-tconstruct.plugins.nei.RecipeHandlerToolMaterials,Tinker's Construct,TConstruct:ToolStationBlock,,TConstruct,TRUE,,,110,,3,,,,,,Longer if more modifiers, I went through the whole list
+tconstruct.plugins.nei.RecipeHandlerToolMaterials,Tinker's Construct,TConstruct:ToolStationBlock,,TConstruct,TRUE,,,110,,3,,,,,,"Longer if more modifiers, I went through the whole list"
 net.p455w0rd.wirelesscraftingterminal.integration.modules.NEIHelpers.NEIAEShapedRecipeHandler,Wireless Crafting Terminal,ae2wct:wirelessCraftingTerminal,,ae2wct,TRUE,,,,,,,,,,,
 alkalus.main.nei.NEI_Handler_Cauldron,Witchery,witchery:cauldron,,WitcheryExtras,TRUE,,,65,,5,,,,,,
 alkalus.main.nei.NEI_Handler_Distillery,Witchery,witchery:distilleryidle,,WitcheryExtras,TRUE,,,140,,2,,,,,,
