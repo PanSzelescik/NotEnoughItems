@@ -385,7 +385,7 @@ net.dries007.tfcnei.recipeHandlers.ClothingRecipeHandler,TerraFirmaCraft+,terraf
 net.dries007.tfcnei.recipeHandlers.BarrelRecipeHandler,TerraFirmaCraft+,terrafirmacraftplus:Barrel,,terrafirmacraftplus,TRUE,,,65,166,5,,,,,,
 net.dries007.tfcnei.recipeHandlers.AlloyRecipeHandler,TerraFirmaCraft+,terrafirmacraftplus:Crucible,,terrafirmacraftplus,TRUE,,,65,166,5,,,,,,
 net.dries007.tfcnei.recipeHandlers.HeatRecipeHandler,TerraFirmaCraft+,terrafirmacraftplus:Firepit,,terrafirmacraftplus,TRUE,,,65,166,5,,,,,,
-minechem.nei.ChemicalBucketNEIRecipeHandler,Minecraft,Mekanism:BasicBlock:8,,minechem,TRUE,,,65,166,5,,,,,,
+minechem.nei.ChemicalBucketNEIRecipeHandler,Minecraft,minecraft:crafting_table,,minechem,TRUE,,,65,166,5,,,,,,
 minechem.nei.DecomposerNEIRecipeHandler,Minechem,minechem:tile.chemicalDecomposer,,minechem,TRUE,,,131,166,2,,,,,,
 minechem.nei.SynthesisNEIRecipeHandler,Minechem,minechem:tile.chemicalSynthesizer,,minechem,TRUE,,,65,166,5,,,,,,
 exter.fodc.nei.ODCRecipeHandler,Ore Dictionary Converter,fodc:oreConvTable,,fodc,TRUE,,,,,4,,,,,,
