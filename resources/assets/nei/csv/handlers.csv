@@ -24,6 +24,7 @@ WayofTime.alchemicalWizardry.client.nei.NEIBloodOrbShapedHandler,Blood Magic,AWW
 WayofTime.alchemicalWizardry.client.nei.NEIBloodOrbShapelessHandler,Blood Magic,AWWayofTime:AlchemicalWizardrybloodRune:4,,AWWayofTime,TRUE,,,65,,5,,,,,,
 bw.fuels.acidgens,BartWorks,gregtech:gt.blockmachines:12726,,bartworks,TRUE,,,145,,2,,,,,,
 bw.recipe.cal,BartWorks,gregtech:gt.blockmachines:12735,,bartworks,TRUE,,,135,,2,,,,,,
+gg.recipe.naquadah_reactor,Good Generator,gregtech:gt.blockmachines:12732,,GoodGenerator,TRUE,,,145,,1,,,,,,
 com.github.bartimaeusnek.bartworks.neiHandler.BW_NEI_BioLabHandler,BartWorks,gregtech:gt.blockmachines:12699,,bartworks,TRUE,,,145,,2,,,,,,
 com.github.bartimaeusnek.bartworks.neiHandler.BW_NEI_BioVatHandler,BartWorks,gregtech:gt.blockmachines:12712,,bartworks,TRUE,,,140,,2,,,,,,
 com.github.bartimaeusnek.bartworks.neiHandler.BW_NEI_OreHandler,BartWorks,bartworks:bw.blockores.01:89,,bartworks,TRUE,,,135,,2,,,,,,
@@ -42,7 +43,7 @@ crazypants.enderio.nei.VatRecipeHandler,Ender IO,EnderIO:blockVat,,EnderIO,TRUE,
 extracells.integration.nei.UniversalTerminalRecipe,Extra Cells 2,extracells:part.base:9,,extracells,TRUE,,,65,,5,,,,,,
 com.rwtema.extrautils.nei.EnderConstructorHandler,Extra Utilities,ExtraUtilities:endConstructor,,ExtraUtilities,TRUE,,,68,,5,,,,,,
 com.rwtema.extrautils.nei.FMPMicroBlocksHandler,Extra Utilities,ForgeMicroblock:sawIron,,ExtraUtilities,TRUE,,,65,,5,,,,,,
-com.rwtema.extrautils.nei.InfoHandler,Extra Utilities,ExtraUtilities:chandelier,,ExtraUtilities,TRUE,,,135,,2,,,,,,"Info on blocks, can vary wildly. EQ was this length, there might be a longer o"
+com.rwtema.extrautils.nei.InfoHandler,Extra Utilities,ExtraUtilities:chandelier,,ExtraUtilities,TRUE,,,135,,2,,,,,,"Info on blocks, can vary wildly. EQ was this length, there might be a longer one"
 com.rwtema.extrautils.nei.MicroBlocksHandler,Extra Utilities,ExtraUtilities:microblocks:1,,ExtraUtilities,TRUE,,,,,,,,,,,
 com.rwtema.extrautils.nei.SoulHandler,Extra Utilities,ExtraUtilities:mini-soul,,ExtraUtilities,TRUE,,,,,,,,,,,
 hellfirepvp.beebetteratbees.client.gui.BBABGuiRecipeTreeHandler,Bees,Forestry:beeQueenGE,,Forestry,TRUE,,,140,,2,,,,,,
